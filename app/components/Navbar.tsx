@@ -21,7 +21,7 @@ export default function Navbar() {
       <div className="flex items-center justify-between mx-auto max-w-2xl px-4 sm:px-6 lg:max-w-7xl">
         <Link href="/">
           <h1 className="text-2xl md:text-4xl font-bold">
-            Apadana<span className="text-primary">Commerce</span>
+            Apadana<span className="text-primary">Store</span>
           </h1>
         </Link>
 
