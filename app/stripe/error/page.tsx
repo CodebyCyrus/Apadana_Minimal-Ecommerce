@@ -1,4 +1,4 @@
-import { AlertCircle, Redo2Icon } from "lucide-react";
+import { AlertCircle } from "lucide-react";
 
 export default function ErrorStripe() {
   return (
